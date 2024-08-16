@@ -8,7 +8,9 @@
 
 ## Features
 
-[Home section, About section, Contact Section and Page .]
+- Home section
+- About section
+- Contact Section and Page
 
 ## Deployment
 
