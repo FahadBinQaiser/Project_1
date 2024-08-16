@@ -1,10 +1,10 @@
 # PortfolioSmallProject
 
-[![Vercel Status](https://vercel.com/fahadbinqaiser/prj_nhi7K4rniGsQrAC5W0o8IPYf2Tgj)]
+[[Vercel Status](https://vercel.com/fahadbinqaiser/prj_nhi7K4rniGsQrAC5W0o8IPYf2Tgj)]
 
 ## Description
 
-[A small portfolio project made with html css with function contact form.]
+[A small portfolio project made with HTML and CSS with functioning contact form.]
 
 ## Features
 
