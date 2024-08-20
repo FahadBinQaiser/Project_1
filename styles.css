@@ -157,61 +157,6 @@ main {
 }
 /* Footer section */
 /* Contact section */
-.contact {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
-  flex-direction: column;
-}
-.contact .contact_heading {
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 2.5rem;
-}
-.contact .contact_paragraph {
-  font-size: 1.1em;
-}
-.contact .contact_form {
-  width: 100%;
-  max-width: 200px;
-  margin-top: 20px;
-}
-.contact .contact_form label {
-  margin-bottom: 5px; /* Adds space between the label and input */
-}
-
-.contact .contact_form input,
-.contact .contact_form textarea {
-  margin-bottom: 15px; /* Adds space between form elements */
-  padding: 10px;
-  font-size: 1em;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  width: 130%;
-}
-.contact .contact_form input:active,
-.contact .contact_form textarea:active {
-  border: 1px solid black;
-}
-
-.contact .contact_form textarea {
-  resize: vertical;
-}
-
-.contact .contact_form button {
-  padding: 10px 20px;
-  font-size: 1em;
-  width: 110%;
-  background-color: #007bff;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-.contact .contact_form button:hover {
-  background-color: #0056b3;
-}
 .contact-wrapper {
   display: flex;
   justify-content: center;
@@ -278,12 +223,9 @@ main {
   cursor: pointer;
   transition: background-color 0.3s;
 }
-
 .contact_form button:hover {
   background-color: #0056b3;
 }
-
-/* Media Query for Smaller Screens */
 @media (max-width: 600px) {
   .contact_heading {
     font-size: 2rem;
