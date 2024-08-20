@@ -226,12 +226,3 @@ main {
 .contact_form button:hover {
   background-color: #0056b3;
 }
-@media (max-width: 600px) {
-  .contact_heading {
-    font-size: 2rem;
-  }
-
-  .contact_paragraph {
-    font-size: 1rem;
-  }
-}
