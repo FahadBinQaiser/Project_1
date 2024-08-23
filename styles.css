@@ -190,6 +190,7 @@ main {
   min-height: 100vh;
   background-color: #f4f4f9;
   font-family: 'Roboto Condensed';
+  margin-top: 60px;
 }
 .contact {
   background-color: #fff;
